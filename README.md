@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @zulisty
 - 👀 I’m interested in Music - Video Editing 
 - 🌱 I’m currently learning Python
-- 💞️ I'm developing a entertainment discord bot
+- 💞️ I'm developing an entertainment discord bot
 - 📫 How to reach me https://solo.to/zulisty
 
 <!---
